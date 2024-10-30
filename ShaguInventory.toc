@@ -1,7 +1,8 @@
-## Interface: 11200
-## Title: |cff33ffccShagu|cffffffffInventory
-## Author: Shagu
-## Notes: A fork of InventoryCounter. Shows the count of items in your inventory of all charactes on the same account.
-## Version: 0.1
-## SavedVariables: InventoryCounterDB
+## Interfaz: 11200
+## Título: |cff33ffccShagu|cffffffffInventory
+## Autor: Shagu
+## Traducción: Shagu
+## Notas: Una bifurcación de InventoryCounter. Muestra el recuento de elementos en el inventario de todos los personajes de la misma cuenta.
+## Versión: 0.1
+## Variables guardadas: InventoryCounterDB
 ShaguInventory.lua
