@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20400
 ## Title: |cff33ffccShagu|cffffffffInventory
 ## Author: Shagu (Traducido por PotoBW)
 ## Notes: Una bifurcación de InventoryCounter. Muestra el recuento de elementos en el inventario de todos los personajes de la misma cuenta.

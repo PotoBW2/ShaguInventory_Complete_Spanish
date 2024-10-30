@@ -7,17 +7,17 @@ end
 
 function InventoryCounter_UpdateBagsAndBank()
   --http://www.wowwiki.com/BagId
-  position = "bank"
+  position = "banco"
   InventoryCounterDB[currentCharacter][position] = nil
   InventoryCounterDB[currentCharacter][position] = {}
   for bag = -1, 10 do
     if(bag == 0) then
-      position = "bag"
+      position = "bolsas"
       InventoryCounterDB[currentCharacter][position] = nil
       InventoryCounterDB[currentCharacter][position] = {}
     end
     if(bag == 5) then
-      position = "bank"
+      position = "banco"
     end
     bagSize = GetContainerNumSlots(bag)
     if (bagSize>0) then
@@ -54,7 +54,7 @@ InventoryCounterFrame:SetScript("OnEvent", function (self)
       end
     end
     if event == "BAG_UPDATE" then
-      position = "bag"
+      position = "bolsas"
       InventoryCounterDB[currentCharacter][position] = nil
       InventoryCounterDB[currentCharacter][position] = {}
       for bag = 0, 4 do
