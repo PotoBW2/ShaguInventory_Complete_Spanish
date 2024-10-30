@@ -21,7 +21,7 @@ PayPal: joseamosher@gmail.com
 ![previsualizar](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguInventory/tooltip.jpg)
 
 ## Installation (Vanilla, 1.12)
-1. Descargar **[Ultima versión](https://github.com/shagu/ShaguInventory/archive/master.zip)**
+1. Descargar **[Ultima versión](https://github.com/PotoBW2/ShaguInventory_Complete_Spanish/releases/download/ShaguInventory_Complete_Spanish_1.00/ShaguInventory.rar)**
 2. Descomprima el archivo RAR
 3. Copiar "ShaguInventory" en Directorio-del-WoW\Interface\AddOns
 4. Reiniciar Wow
